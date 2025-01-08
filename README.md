@@ -14,7 +14,7 @@ The Sui ecosystem has reached a turning point. With mature tooling, robust infra
 
 This isn't just about writing code that works - it's about crafting code that endures, that compounds, that elevates our entire ecosystem. The immutable nature of blockchain demands excellence, and Sui's unique capabilities enable it. We can no longer accept shortcuts or compromise on quality.
 
-With Move 2024 and the Sui Developer Roadmap, Mysten engineers have given us the foundation we need. Now it's our turn. This manifesto is a call to action for every Sui developer to embrace higher standards, to build with purpose, and to contribute to a legacy of excellence.
+With [Move 2024](https://github.com/MystenLabs/sui/issues/14062) and the [Sui Developer Roadmap](https://forums.sui.io/t/sui-developer-roadmap-2024/45229), Mysten engineers have given us the foundation we need. Now it's our turn. This manifesto is a call to action for every Sui developer to embrace higher standards, to build with purpose, and to contribute to a legacy of excellence.
 
 
 ## The Art of Eternal Code
@@ -25,7 +25,7 @@ Code deployed on chain lives forever - or at least until validators run out 
 
 When we write code, we must remember that it rarely serves us alone. Contributors will study our code to improve it or adapt it to their needs. Developers will integrate our codebase into their projects. Beginners will learn from our examples, studying and reproducing our patterns. This reality demands that we prioritize readability above all else. Let's resist unnecessary optimization - clear intent over cleverness.
 
-Move Conventions provide essential best practices for writing Move smart contracts on Sui. While these conventions aren't strict rules, they represent a tacit agreement among Sui developers, ensuring consistency across our ecosystem and making code both easier to understand and maintain.
+[Move Conventions](https://docs.sui.io/concepts/sui-move-concepts/conventions) provide essential best practices for writing Move smart contracts on Sui. While these conventions aren't strict rules, they represent a tacit agreement among Sui developers, ensuring consistency across our ecosystem and making code both easier to understand and maintain.
 
 ### Built to Last
 
@@ -98,7 +98,7 @@ A blockchain is only as strong as its community of builders. While technical exc
 
 Open-source isn't just a development model - it's the embodiment of Web3's core values of transparency, collaboration, and collective innovation. In a space where we're building the future of digital trust, closed systems contradict our fundamental principles. Open-source code invites peer review, accelerates innovation through shared knowledge, and creates a compounding effect where each builder's contribution strengthens the entire ecosystem.
 
-Code living on chain is de facto open-source because of the Move bytecode which is more easily readable than regular bytecode. Tools like the Revela decompiler or SuiGPT make this really easy. So there is no point in hiding our code!
+Code living on chain is de facto open-source because of the Move bytecode which is more easily readable than regular bytecode. Tools like the [Revela decompiler](https://revela.verichains.io/) or [SuiGPT](https://suigpt.tools/decompile) make this really easy. So there is no point in hiding our code!
 
 ### Better Together
 
